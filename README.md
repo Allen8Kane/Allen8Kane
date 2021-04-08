@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=Allen8Kane-Code&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&icon_color=ff3e3e)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Allen8Kane-Code&layout=compact&theme=radical&title_color=ffffff&text_color=ffffff&icon_color=ff3e3e)
+
+
 <!--
 **Allen8Kane/Allen8Kane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
