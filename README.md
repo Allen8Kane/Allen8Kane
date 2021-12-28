@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=Allen8Kane&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&icon_color=ff3e3e)
 
